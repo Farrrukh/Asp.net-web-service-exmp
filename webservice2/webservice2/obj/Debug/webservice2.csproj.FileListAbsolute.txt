@@ -1,0 +1,10 @@
+C:\Users\farrukh khan\Desktop\New folder\webservice2\webservice2\obj\Debug\webservice2.csprojResolveAssemblyReference.cache
+C:\Users\farrukh khan\Desktop\New folder\webservice2\webservice2\bin\webservice2.dll.config
+C:\Users\farrukh khan\Desktop\New folder\webservice2\webservice2\bin\webservice2.dll
+C:\Users\farrukh khan\Desktop\New folder\webservice2\webservice2\bin\webservice2.pdb
+C:\Users\farrukh khan\Desktop\New folder\webservice2\webservice2\bin\EntityFramework.dll
+C:\Users\farrukh khan\Desktop\New folder\webservice2\webservice2\bin\EntityFramework.SqlServer.dll
+C:\Users\farrukh khan\Desktop\New folder\webservice2\webservice2\bin\EntityFramework.xml
+C:\Users\farrukh khan\Desktop\New folder\webservice2\webservice2\bin\EntityFramework.SqlServer.xml
+C:\Users\farrukh khan\Desktop\New folder\webservice2\webservice2\obj\Debug\webservice2.dll
+C:\Users\farrukh khan\Desktop\New folder\webservice2\webservice2\obj\Debug\webservice2.pdb

@@ -1,0 +1,9 @@
+C:\Users\farrukh khan\Desktop\New folder\webservice3\webservice3\bin\Debug\webservice3.exe.config
+C:\Users\farrukh khan\Desktop\New folder\webservice3\webservice3\bin\Debug\webservice3.exe
+C:\Users\farrukh khan\Desktop\New folder\webservice3\webservice3\bin\Debug\webservice3.pdb
+C:\Users\farrukh khan\Desktop\New folder\webservice3\webservice3\obj\Debug\webservice3.csprojResolveAssemblyReference.cache
+C:\Users\farrukh khan\Desktop\New folder\webservice3\webservice3\obj\Debug\webservice3.Form1.resources
+C:\Users\farrukh khan\Desktop\New folder\webservice3\webservice3\obj\Debug\webservice3.Properties.Resources.resources
+C:\Users\farrukh khan\Desktop\New folder\webservice3\webservice3\obj\Debug\webservice3.csproj.GenerateResource.Cache
+C:\Users\farrukh khan\Desktop\New folder\webservice3\webservice3\obj\Debug\webservice3.exe
+C:\Users\farrukh khan\Desktop\New folder\webservice3\webservice3\obj\Debug\webservice3.pdb
